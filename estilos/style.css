@@ -10,8 +10,15 @@
     text-align: center;
     font-size: 1em;
     background-image: url(../imagens/pexels.jpg);
+    color: white;
 }
 
 form {
     background-image: url(../imagens/chuva.jpg);
+    width: 500px;
+    display: inline;
+}
+
+fieldset {
+    width: auto;
 }
